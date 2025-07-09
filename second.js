@@ -1,2 +1,2 @@
 console.log('second.js file')
-console.log('updated')
+console.log('updated1')
